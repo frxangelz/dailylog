@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/USERNAME/dailylog"
+	"github.com/frxangelz/dailylog"
 )
 
 func main() {
