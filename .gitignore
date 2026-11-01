@@ -1,0 +1,10 @@
+# Log yang dihasilkan saat menjalankan contoh/test
+logs/
+*.log
+
+# Binary & editor
+*.exe
+*.test
+*.out
+.idea/
+.vscode/
